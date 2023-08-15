@@ -1,4 +1,4 @@
-# newBechdelScoreProject
+# GENDER IMBALANCE IN MOVIES - Bechdel Score Project
 ## The goal of this project is to demonstrate how a variety of data structures can be used to investigate questions about a particular real-world domain, in this case, the Gender Imbalance in Movies
 
 Here we look at a variety of tests, including the Bechdel Test which asks:
